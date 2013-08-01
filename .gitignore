@@ -22,3 +22,6 @@ doc/
 .project
 .idea
 .DS_Store
+
+#Ignore Sample Images
+/sampleimages
